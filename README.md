@@ -2,8 +2,8 @@
 
 > **Tugas Akhir Semester (UAS) Pemrograman Web 2**  
 > Disusun oleh:
-> Nama : Rizky Maulana
-> Nim : 312410430
+> Nama : Muhammad Rakha Ghani
+> Nim : 312410421
 > Kelas : I241C
 > Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom., S.Kom., M. Kom.
 
